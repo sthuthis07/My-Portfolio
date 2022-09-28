@@ -1,0 +1,40 @@
+.border {
+  border-bottom: 1px solid;
+  margin: 1rem 3rem 1rem 3rem;
+}
+.about {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  justify-content: center;
+  justify-items: center;
+  font-size: 20px;
+  width: 70%;
+  justify-content: center;
+  justify-items: center;
+  margin-left: 16%;
+}
+.internships {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  font-size: 20px;
+}
+.card {
+  background-color: rgb(194, 107, 52);
+  width: 70%;
+  color: white;
+  margin-left: 30px;
+}
+.card-action a {
+  color: wheat;
+}
+.link {
+  margin-right: 0;
+}
+.link :hover {
+  color: grey;
+}
+
+.collection {
+  width: 50%;
+  margin-left: 25%;
+}
