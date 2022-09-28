@@ -94,7 +94,7 @@ class Contact extends Component {
           Twitter &nbsp;
         </a>
         <a
-          href="www.linkedin.com/in/sthuthi-s"
+          href="https://www.linkedin.com/in/sthuthi-s"
           style={{
             textShadow: "0 1px 0 rgba(0,0,0,0.1",
             margin: "0rem 2rem 0 rem 2rem",
